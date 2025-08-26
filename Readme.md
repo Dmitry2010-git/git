@@ -1,3 +1,3 @@
-Тестовый репозиторий
-изменение на удаленный репозиторий
-Добавил ssh-key
+# Simple Java Project
+This is a demo project that you can use with [Buddy Continuous Deployment](https://buddy.works)
+
